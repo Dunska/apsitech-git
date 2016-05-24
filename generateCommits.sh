@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for a in {0..10}
+for a in {0..40}
 do
     rm uselessFile*.txt;
     touch uselessFile$a.txt
