@@ -1,0 +1,56 @@
+{
+  "name": "material-design-icons-iconfont",
+  "version": "2.0.5",
+  "description": "Material Design icons by Google",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jossef/material-design-icons-iconfont.git"
+  },
+  "keywords": [
+    "icons",
+    "material",
+    "material-design",
+    "material-design-icons",
+    "material-design-icons-build",
+    "material-design-icons-release",
+    "material-design-icons-dist",
+    "material-design-icons-iconfont",
+    "google"
+  ],
+  "author": {
+    "name": "Material Design Authors"
+  },
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/jossef/material-design-icons-iconfont/issues"
+  },
+  "homepage": "https://github.com/jossef/material-design-icons-iconfont",
+  "gitHead": "e5b117085543298b0246a673493a1f398ee8ae9c",
+  "_id": "material-design-icons-iconfont@2.0.5",
+  "scripts": {},
+  "_shasum": "0084a418d8fa010056ba1f5402e0c0228fe18369",
+  "_from": "material-design-icons-iconfont@2.0.5",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "0.10.25",
+  "_npmUser": {
+    "name": "jossef",
+    "email": "jossef12@gmail.com"
+  },
+  "dist": {
+    "shasum": "0084a418d8fa010056ba1f5402e0c0228fe18369",
+    "tarball": "https://registry.npmjs.org/material-design-icons-iconfont/-/material-design-icons-iconfont-2.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jossef",
+      "email": "jossef12@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/material-design-icons-iconfont-2.0.5.tgz_1460265902850_0.5920638528186828"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/material-design-icons-iconfont/-/material-design-icons-iconfont-2.0.5.tgz"
+}
