@@ -1,2 +1,2 @@
 # apsitech-git
-Repo de démonstration pour l'Apsitech sur Git
+Repository de démonstration pour l'Apsitech sur Git
